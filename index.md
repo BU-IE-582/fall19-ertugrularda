@@ -4,3 +4,6 @@
 
 ## HW2
 [HW2](Homework 2.html) is here.
+
+## HW3
+[HW3](Homework 3.html) is here.
