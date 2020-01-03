@@ -11,3 +11,7 @@
 ## HW4
 [HW4](Homework 4.html) is here.
  This was a group homework, I did it with Fatih Kubilay Yavuz who is my group member.
+## Term Project
+[Term Project](IE582_Project_Report.html) is here.
+## Codes of Term Project
+[Codes of Term Project](IE582_Project_Code.html) are here.
